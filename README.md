@@ -33,7 +33,7 @@
 <p>Светлый путь: https://tyumedia.ru/16/</p>
 <p>Сафоновская правда: http://safonovka.ru</p>
 <p>Можгинские вести: https://можгинские-вести.рф</p>
-<h4> Центарльные источники: </h4>
+<h4> Центрльные источники: </h4>
 <p>N+1: https://nplus1.ru</p>
 <p>Газета.ру: https://www.gazeta.ru</p>
 <p>РБК: https://www.rbc.ru</p>
